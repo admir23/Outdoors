@@ -8,8 +8,10 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "tunnel-agent": "^0.6.0"
+  },
   "devDependencies": {
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.9.0"
   }
 }
