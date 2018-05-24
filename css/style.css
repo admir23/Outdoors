@@ -112,6 +112,9 @@ body {
 .u-margin-top-huge {
   margin-top: 10rem; }
 
+.u-padding-top-medium {
+  padding-top: 4rem; }
+
 .compostion {
   position: relative; }
   .compostion__photo {
@@ -433,5 +436,5 @@ body {
   margin-top: -10rem; }
 
 .section-stories {
-  padding: 15rem 0;
+  padding: 20rem 0;
   background-color: #f7f7f7; }
