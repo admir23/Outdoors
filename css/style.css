@@ -94,6 +94,9 @@ body {
   .paragraph:not(:last-child) {
     margin-bottom: 3rem; }
 
+.icon {
+  color: red; }
+
 .u-center-text {
   text-align: center; }
 
